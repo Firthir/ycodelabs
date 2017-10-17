@@ -24,7 +24,7 @@ export default () => injectGlobal`
     font-size: 62.5%;
   }
 
-  body, html {
+  html {
     background-color: #1e1e1e;
   }
 
